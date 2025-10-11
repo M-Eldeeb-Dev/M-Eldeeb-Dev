@@ -113,13 +113,11 @@
 
 <p align="center">
 	<a href="mailto:mo6942853@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Mohamed-Eldeeb2008"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mohamed-eldeeb-78b83730b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=61556290228674/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.youtube.com/@DeebTech"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
 </p>
 
----
 
 <hr>
 
