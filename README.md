@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge">
   </a>
   &emsp;
-  <a href="[https://drive.google.com/file/d/1hrlK5OTNudz0aqzufFoY8pglejhe1rko/view](https://drive.google.com/file/d/122q5R12OwWE1EofYAAn4n1F4SYpzoBVL/view" target="_blank">
+  <a href="https://drive.google.com/file/d/122q5R12OwWE1EofYAAn4n1F4SYpzoBVL/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Explore%20CV-Click%20Here-brightgreen?style=for-the-badge">
   </a>
 </p>
