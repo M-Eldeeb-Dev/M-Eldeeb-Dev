@@ -16,6 +16,20 @@
 
 <hr>
 
+## 📁 Portfolio & Resume
+
+<p align="center">
+  <a href="https://deeb.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge">
+  </a>
+  &emsp;
+  <a href="[https://drive.google.com/file/d/1hrlK5OTNudz0aqzufFoY8pglejhe1rko/view](https://drive.google.com/file/d/122q5R12OwWE1EofYAAn4n1F4SYpzoBVL/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Explore%20CV-Click%20Here-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+<hr>
+
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Eldeeb2008&theme=algolia" alt="Mohamed-Eldeeb2008" />
@@ -107,19 +121,11 @@
 
 ---
 
-## 📁 Portfolio & Resume
-
-<p align="center">
-  <a href="https://deeb.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge">
-  </a>
-  &emsp;
-  <a href="https://drive.google.com/file/d/1hrlK5OTNudz0aqzufFoY8pglejhe1rko/view" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Explore%20CV-Click%20Here-brightgreen?style=for-the-badge">
-  </a>
-</p>
-
 <hr>
 
 *Credit: [Mohamed Eldeeb](https://github.com/Mohamed-Eldeeb2008)*  
 *Last Edited on: 11/10/2025*
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
