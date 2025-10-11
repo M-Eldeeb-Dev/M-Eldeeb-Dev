@@ -32,7 +32,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Eldeeb2008&theme=algolia" alt="Mohamed-Eldeeb2008" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Eldeeb-Dev&theme=algolia" alt="Mohamed-Eldeeb2008" />
 </p>
 
 ---
@@ -101,9 +101,9 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Eldeeb2008&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=M-Eldeeb-Dev&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Eldeeb2008&show_icons=true&layout=compact&theme=algolia" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Eldeeb-Dev&show_icons=true&layout=compact&theme=algolia" height="192px"/>
   </p>
 </details>
 
@@ -121,7 +121,7 @@
 
 <hr>
 
-*Credit: [Mohamed Eldeeb](https://github.com/Mohamed-Eldeeb2008)*  
+*Credit: [Mohamed Eldeeb](https://github.com/M-Eldeeb-Dev)*  
 *Last Edited on: 11/10/2025*
 
   <p align="left">
