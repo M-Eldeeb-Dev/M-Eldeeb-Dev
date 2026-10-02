@@ -126,8 +126,7 @@
 
 <hr>
 
-*Credit: [Mohamed Eldeeb](https://github.com/M-Eldeeb-Dev)*  
-*Last Edited on: 11/10/2025*
+*Credit: [Mohamed Eldeeb](https://github.com/M-Eldeeb-Dev)*
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
