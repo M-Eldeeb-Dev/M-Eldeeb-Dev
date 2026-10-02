@@ -1,3 +1,5 @@
+<img width="227" height="227" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/803c8b0b-652a-4541-8cfe-6ba02b9830eb" />
+
 <h1 align="center">Hi , I'm Mohamed Eldeeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -113,10 +115,11 @@
 
 <p align="center">
 	<a href="mailto:mo6942853@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/mohamed-eldeeb-78b83730b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="www.linkedin.com/in/mh-deeb"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=61556290228674/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.youtube.com/@DeebTech"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
+	<!-- <a href="https://www.youtube.com/@DeebTech"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a> -->
 </p>
+<img width="1584" height="396" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/2caf690b-4099-489c-9f98-198df86b600e" />
 
 
 <hr>
