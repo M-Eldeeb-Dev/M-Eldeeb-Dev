@@ -1,4 +1,5 @@
-<img width="227" height="227" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/803c8b0b-652a-4541-8cfe-6ba02b9830eb" />
+<img width="225" height="225" align="center" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/9a8e2024-fe57-4be4-aaa7-b6a0a537392d" />
+
 
 <h1 align="center">Hi , I'm Mohamed Eldeeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
